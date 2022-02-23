@@ -1,0 +1,35 @@
+original,short,category
+Timestamp,time,other
+Country of primary affiliated institution,country_aff,participant
+What is your current career stage?,career_stage,participant
+Which of the following categories fit your field of study the best?,field1,participant
+"If none of the above fit your field of study, please enter it here",field2,participant
+Have you previously been or are you currently part of any Latin American-European scientific collaboration(s)?,lat_eu_collab,participant
+"If you answered yes to the previous question, please add the details here, e.g. your affiliation(s) at the time and those of your collaborators. *Example: Colombia (me) - Germany (others)*",lat_eu_det,participant
+Sources of funding for the project,funding,project
+Country of collaborator(s),country_collab,project
+Country of principal investigator/leader of the project,country_pi,project
+Starting and end date of project. Example: July 2009 - Nov 2011,proj_date,project
+How did you meet your collaborator(s)?,meet,project
+Did you or did your collaborator(s) initiate the project?,initiate,project
+At which career level was(were) your collaborator(s)? (Tick all that applies),collab_career,project
+In which language(s) did/do you communicate with your collaborator(s)? (Tick all that applies),lang_comm,project
+Did/does this project align with your own research agenda?,agenda,project
+Did/does your project align with the strategic goals for funding of any of the countries involved?,strat_goals,project
+"If you answer yes to the above, please list the countries below",country_strat_goals,project
+What types of collaborations were present (Select all that applies),collab_type,collaboration
+How was the division of labour decided?,labour,collaboration
+Did you have any issues? What do you think the reason was for these issues to arise? (Select everything that applies),issues,collaboration
+How did you or your collaborators deal with challenges and obstacles?,challenges,collaboration
+Were there any publications resulting from this project?,collab_pubs,publication
+What was your contribution to the publications that resulted from the project? (Select all that apply),collab_contr,publication
+Were you an author of the resulting publications?,collab_auth,publication
+"If you answered no to the above, were you acknowledged in any part of the resulting publications?",collab_acknow,publication
+How was the authorship for the resulting publications decided?,auth_decision,publication
+In which language(s) were the publications written?,lang_pubs,publication
+Has there been knowledge exchange for researchers and/or communities during this project?,k_exchange,exchange
+"If you answered yes to the above, please provide details below:",k_exchange_det,exchange
+"What were the conditions, events, policies or people that facilitated your international scientific collaboration in your Latin American-European project?",conditions,comments
+Do you have any recommendations for other researchers embarking on international research between Latin American and European researchers?,recommendations,comments
+"In your view, what are the ethical considerations required for international research between Latin American and European researchers?",ethics,comments
+"If you would like us to keep you updated on this project, please enter your email below",email,other
